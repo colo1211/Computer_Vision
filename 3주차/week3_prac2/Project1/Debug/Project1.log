@@ -1,0 +1,8 @@
+﻿  week3_prac2.cpp
+C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\week3_prac2.cpp(123,14): warning C4244: '초기화 중': 'double'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\week3_prac2.cpp(196,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\week3_prac2.cpp(218,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\week3_prac2.cpp(239,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\week3_prac2.cpp(261,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\week3_prac2.cpp(281,43): warning C4244: '=': 'long'에서 'BYTE'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project1.vcxproj -> C:\Users\color\Desktop\2021-1\컴퓨터비전\3주차\week3_prac2\Project1\Debug\Project1.exe
